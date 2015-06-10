@@ -37,7 +37,6 @@
     "reactify": "^1.1.1"
   },
   "dependencies": {
-    "js-stylesheet": "0.0.1",
     "react": "^0.13.3"
   }
 }
